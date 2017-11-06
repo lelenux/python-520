@@ -29,8 +29,8 @@ while True:
 
         for a in aluno:
             print(a['nome'])
-    elif  opcao == 3
-
+    elif  opcao == 3:
+        pass
 
     elif opcao == 4:
         exit(0)
